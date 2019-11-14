@@ -276,6 +276,8 @@ Feign:
                     选择所需要团队开发的项目(在github上选择)--->点击settings选项--->选择collaboration-->需要密码验证-->搜索要添加的github的用户名
                     -->点击collaboration-->等待验证
 
+                    (如果是第一次提交push需要输入github的账号和密码)
+                        !!! 测试互通 !!!
 
 
 
